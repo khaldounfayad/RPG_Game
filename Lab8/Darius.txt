@@ -1,0 +1,6 @@
+The Character name is: Darius
+The Character strength is: 3
+The Character dexterity is: 4
+The Character endurance is: 2
+The Character intelligence is: 4
+The Character charisma is: 1

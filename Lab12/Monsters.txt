@@ -1,0 +1,71 @@
+
+========Monster1========
+Strength:          6
+Dexterity:         9
+Endurance:         8
+Intelligence:      5
+Charisma:          9
+
+========Monster2========
+Strength:          2
+Dexterity:         4
+Endurance:         1
+Intelligence:      8
+Charisma:          3
+
+========Monster3========
+Strength:          9
+Dexterity:         3
+Endurance:         8
+Intelligence:      7
+Charisma:          8
+
+========Monster4========
+Strength:          6
+Dexterity:         8
+Endurance:         9
+Intelligence:      4
+Charisma:          1
+
+========Monster5========
+Strength:          1
+Dexterity:         7
+Endurance:         6
+Intelligence:      1
+Charisma:          5
+
+========Monster1========
+Strength:          6
+Dexterity:         9
+Endurance:         8
+Intelligence:      5
+Charisma:          9
+
+========Monster2========
+Strength:          2
+Dexterity:         4
+Endurance:         1
+Intelligence:      8
+Charisma:          3
+
+========Monster3========
+Strength:          9
+Dexterity:         3
+Endurance:         8
+Intelligence:      7
+Charisma:          8
+
+========Monster4========
+Strength:          6
+Dexterity:         8
+Endurance:         9
+Intelligence:      4
+Charisma:          1
+
+========Monster5========
+Strength:          1
+Dexterity:         7
+Endurance:         6
+Intelligence:      1
+Charisma:          5
+

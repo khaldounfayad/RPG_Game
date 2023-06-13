@@ -1,0 +1,5 @@
+1.Cookies       Stock: 9
+2.Sneakers      Stock: 9
+3.Energy Drink  Stock: 9
+4.Water         Stock: 9
+5.Chips         Stock: 9

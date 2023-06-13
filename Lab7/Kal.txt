@@ -1,0 +1,6 @@
+The Character name is: Kal
+The Character strength is: 2
+The Character dexterity is: 4
+The Character endurance is: 3
+The Character intelligence is: 6
+The Character charisma is: 2

@@ -1,0 +1,5 @@
+1.Cookies  Stock: 10
+2.Chocolate 	 Stock: 30
+3.Energy Drink 	 Stock: 15
+4.Water  	 Stock: 25
+5.Chips  	 Stock: 20

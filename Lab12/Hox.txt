@@ -1,0 +1,7 @@
+The Character name is: Hox
+The Character strength is: 1
+The Character dexterity is: 1
+The Character endurance is: 1
+The Character intelligence is: 9
+The Character charisma is: 1
+The Character class is: 
